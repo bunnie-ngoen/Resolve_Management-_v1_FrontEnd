@@ -12,6 +12,7 @@
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
     "@reduxjs/toolkit": "^2.11.0",
+    "@tailwindcss/vite": "^4.1.17",
     "@tanstack/react-query": "^5.90.11",
     "axios": "^1.13.2",
     "react": "^19.2.0",
@@ -20,6 +21,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.10.0",
     "redux-saga": "^1.4.2",
+    "tailwindcss": "^4.1.17",
     "zod": "^4.1.13"
   },
   "devDependencies": {
