@@ -1,7 +1,7 @@
 /**
  * tạo api endpoint login cho frontend bằng RTK Query
  */
-import { api } from "../../../shared/types/api";
+import { api } from "../../../shared/api";
 import type { LoginResponse } from "../schemas/login.response.schema";
 import { LoginResponseSchema } from "../schemas/login.response.schema";
 
